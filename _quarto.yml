@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "植物的一生 🌱"
+  description: "配套教科书的官方学习资源库"
+  navbar:
+    background: "#78c2ad" # 继续使用薄荷绿
+    left:
+      # 这里定义了四个新的导航菜单
+      - text: "主页"
+        href: index.qmd
+      - text: "课前预习资料"
+        href: pre-class.qmd
+      - text: "其他资源"
+        href: resources.qmd
+      - text: "关于我们"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/你的用户名/plant-textbook
+  search: true
+
+format:
+  html:
+    theme: minty
+    toc: true
+    toc-title: "本页目录"
+    lang: zh
+    css: styles.css # 我们稍后加一点点样式让图片更好看

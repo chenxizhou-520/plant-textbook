@@ -1,0 +1,19 @@
+---
+title: "其他拓展资源"
+---
+
+这里收集了一些优秀的植物学纪录片和外部链接，供学有余力的同学拓展视野。
+
+### 🎬 推荐纪录片
+
+* **《植物王国》 (The Kingdom of Plants)** - David Attenborough 讲解的高清纪录片。
+* **《种子：不为人知的秘密》 (Seed: The Untold Story)** - 关于种子保护的故事。
+* **《科学重器》 (第二集)** - 为植物建立一个“诺亚方舟”——中国西南野生生物种质资源库。
+
+*(注：此处可以继续添加 B站 视频嵌入代码或外部链接)*
+
+### 🔗 有用的网站
+
+* [斯瓦尔巴德全球种子库](https://www.seedvault.no/) [纪录片](https://www.bilibili.com/video/av14993726/)
+* [中国植物图像库](https://www.ppbc.cn/)
+* [英国皇家植物园 (Kew Gardens)](https://www.kew.org/)
