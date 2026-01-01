@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - videos
 
 website:
   title: "植物的一生 🌱"
@@ -15,6 +17,8 @@ website:
         href: pre-class.qmd
       - text: "其他资源"
         href: resources.qmd
+      - text: "老师教学资源"
+        href: teacher-resources.qmd
       - text: "关于我们"
         href: about.qmd
     right:

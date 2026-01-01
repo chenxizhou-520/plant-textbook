@@ -5,177 +5,232 @@ subtitle: "Pre-class Preparation & Resources"
 
 ::: {.callout-tip appearance="simple"}
 ## 👋 预习指南
+
 请同学们根据目前的教学进度，点击下方对应的 **单元** 和 **周次**，完成预习任务。
 :::
 
 # 🌱 第一单元：生命的胶囊
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## W1: 千奇百怪的种子
 
 **本周主题：种子内部结构与多样性**
 
 ### 📺 预习视频
+
 了解种子的内部构造（胚根、胚芽、子叶）。
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1Kvd7YuEA9&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe>
-</div>
+::: {style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"}
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Kvd7YuEA9&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe>
+:::
 
-*视频来源：Bilibili (已嵌入，可直接播放)*
+*视频来源：Bilibili*
+
+### 📖 双语阅读 (Reading Time)
+*请大声朗读下面的短文，加粗的单词是本周的重点哦！* （确认过后我会用这个title）
+
+### 📖 双语阅读 (Reading Time)
+*我们在研发最适合同学们的阅读材料。请阅读以下两个版本，告诉老师你更喜欢哪一个？*
+
+::: {.panel-tabset}
+
+## 🅰️ 版本一 (学术版)
+
+::: {.callout-note appearance="minimal"}
+**Inside every protective seed, a tiny embryo waits for the right time to grow.**
+在每一颗起保护作用的 **种子 (seed)** 里，一个微小的 **胚胎 (embryo)** 等待着合适的生长时机。
+
+**Botanists distinguish flowering plants into two groups based on this early stage.**
+植物学家根据这一早期阶段将开花植物分为两类。
+
+**A monocot produces only one seed leaf as it sprouts.**
+**单子叶植物 (monocot)** 在发芽时只长出一片子叶。
+
+**However, a dicot always has a pair of leaves.**
+然而，**双子叶植物 (dicot)** 总是拥有一对叶子。
+
+**This simple trait determines how the entire plant functions.**
+这个简单的特征决定了整株植物的运作方式。
+:::
+
+## 🅱️ 版本二 (简单版)
+
+::: {.callout-tip appearance="minimal"}
+### Science in a Seed (种子里的科学)
+
+**Every seed holds a tiny baby plant called an embryo.**
+每一颗 **种子 (seed)** 里都藏着一个叫作 **胚 (embryo)** 的小植物。
+
+**Scientists group these plants into monocots and dicots.**
+科学家把这些植物分为 **单子叶植物 (monocots)** 和 **双子叶植物 (dicots)**。
+
+**A monocot embryo has only one starting leaf.**
+**单子叶植物 (monocot)** 的胚只有一片初始的叶子（子叶）。
+
+**But a dicot embryo has two leaves inside.**
+但是 **双子叶植物 (dicot)** 的胚里面有两片叶子。
+
+**You see this difference clearly when the plant starts to grow.**
+当植物开始生长时，你能清楚地看到这种区别。
+:::
+
+:::
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文 | 音标 | 中文释义 |
-|:---|:---|:---|
-| **Seed** | /siːd/ | 种子 |
-| **Embryo** | /ˈembriəʊ/ | 胚 |
+| 英文        | 音标       | 中文释义   |
+|:------------|:-----------|:-----------|
+| **Seed**    | /siːd/     | 种子       |
+| **Embryo**  | /ˈembriəʊ/ | 胚         |
 | **Monocot** | /ˈmɒnəkɒt/ | 单子叶植物 |
-| **Dicot** | /ˈdaɪkɒt/ | 双子叶植物 |
+| **Dicot**   | /ˈdaɪkɒt/  | 双子叶植物 |
 
 ### 🎒 准备工作
-* 收集家中不同种类的豆子或谷物（用于制作种子马赛克画）。
-* 准备一本新的观察日记本。
+
+-   收集家中不同种类的豆子或谷物（用于制作种子马赛克画）。
+-   准备一本新的观察日记本。
 
 ## W2: 唤醒沉睡的生命
 
 **本周主题：探究种子萌发的条件（水、空气、温度）**
 
 ### 📺 预习视频
-种子发芽需要什么条件？什么是“控制变量法”？
 
-> [待嵌入视频：萌发条件与控制变量]
+种子发芽需要什么条件？什么是"控制变量法"？
+
+> \[待嵌入视频：萌发条件与控制变量\]
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文 | 中文释义 | 例句 |
-|:---|:---|:---|
-| **Germination** | 萌发 | The seed needs water for germination. |
-| **Temperature** | 温度 | Suitable temperature is key. |
-| **Air / Oxygen** | 空气/氧气 | Seeds need air to breathe. |
+| 英文             | 中文释义  | 例句                                  |
+|:-----------------|:----------|:--------------------------------------|
+| **Germination**  | 萌发      | The seed needs water for germination. |
+| **Temperature**  | 温度      | Suitable temperature is key.          |
+| **Air / Oxygen** | 空气/氧气 | Seeds need air to breathe.            |
 
 ## W3: 破土而出的力量
 
 **本周主题：植物的向地性与自动浇灌**
 
 ### 📺 预习视频
+
 无论种子怎么放，根为什么总是向下长？（向地性）
 
-> [待嵌入视频：向地性实验]
+> \[待嵌入视频：向地性实验\]
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文 | 中文释义 |
-|:---|:---|
-| **Gravity** | 重力 |
-| **Root system** | 根系 |
-| **Soil** | 土壤 |
+| 英文            | 中文释义 |
+|:----------------|:---------|
+| **Gravity**     | 重力     |
+| **Root system** | 根系     |
+| **Soil**        | 土壤     |
 
 ## W4: 不同的童年
 
 **本周主题：子叶的变化 & 月度总结**
 
 ### 📺 预习视频
+
 观察大豆子叶的变化与脱落。
 
-> [待嵌入视频：子叶变化观察]
+> \[待嵌入视频：子叶变化观察\]
 
 ### 📝 英文诗歌 (Poem)
-*试着朗读这首关于发芽的小诗：*
-> A little seed for me to sow...
-> A little earth to make it grow...
-> A little sun, a little shower...
-> A little while - and then, a flower!
 
+*试着朗读这首关于发芽的小诗：* \> A little seed for me to sow... \> A little earth to make it grow... \> A little sun, a little shower... \> A little while - and then, a flower!
 :::
 
 # 🌿 第二单元：植物的骨架与血脉（第 2 个月）
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## W5: 移植与根系
 
 **本周主题：直根系与须根系**
 
 ### 📺 预习视频
+
 如何正确移植植物？认识直根与须根。
 
-> [待嵌入视频：移植与根系种类]
+> \[待嵌入视频：移植与根系种类\]
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文 | 中文释义 | 代表植物 |
-|:---|:---|:---|
-| **Taproot** | 直根 | 香菜、大豆 |
-| **Fibrous root** | 须根 | 葱、玉米 |
-| **Transplant** | 移植 | - |
+| 英文             | 中文释义 | 代表植物   |
+|:-----------------|:---------|:-----------|
+| **Taproot**      | 直根     | 香菜、大豆 |
+| **Fibrous root** | 须根     | 葱、玉米   |
+| **Transplant**   | 移植     | \-         |
 
 ## W6: 植物的吸管（茎）
 
 **本周主题：茎的输导功能与形态**
 
 ### 📺 预习视频
+
 红墨水实验预告：茎是如何像吸管一样运输水分的？
 
-> [待嵌入视频：红墨水实验]
+> \[待嵌入视频：红墨水实验\]
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文 | 中文释义 |
-|:---|:---|
-| **Stem** | 茎 |
-| **Straw** | 吸管 |
+| 英文        | 中文释义        |
+|:------------|:----------------|
+| **Stem**    | 茎              |
+| **Straw**   | 吸管            |
 | **Climber** | 攀缘茎 (如葡萄) |
 | **Creeper** | 匍匐茎 (如草莓) |
-| **Tuber** | 块茎 (如土豆) |
+| **Tuber**   | 块茎 (如土豆)   |
 
 ## W7: 隐形指挥官（营养）
 
 **本周主题：植物生病症状 & 生长素**
 
 ### 📺 预习视频
+
 植物缺氮、磷、钾会有什么表现？
 
-> [待嵌入视频：植物营养缺乏症状]
+> \[待嵌入视频：植物营养缺乏症状\]
 
 ### 📝 核心单词 (Key Vocab)
-* **Nutrient** (营养)
-* **Fertilizer** (肥料)
-* **Auxin** (生长素)
+
+-   **Nutrient** (营养)
+-   **Fertilizer** (肥料)
+-   **Auxin** (生长素)
 
 ## W8: 向上的力量
 
 **本周主题：植物的向光性**
 
 ### 📺 预习视频
+
 植物为什么总是向着太阳长？（迷宫盒实验）
 
-> [待嵌入视频：向光性迷宫实验]
+> \[待嵌入视频：向光性迷宫实验\]
 
 ### 📝 核心单词 (Key Vocab)
-* **Sunlight** (阳光)
-* **Bend** (弯曲)
-* **Growth** (生长)
 
+-   **Sunlight** (阳光)
+-   **Bend** (弯曲)
+-   **Growth** (生长)
 :::
 
 # 🍃 第三单元：能量工厂（第 3 个月）
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## W9: 绿色的秘密
 
 **本周主题：叶子的结构**
 
 ### 📺 预习视频
 
-> [待嵌入视频：叶片结构]
+> \[待嵌入视频：叶片结构\]
 
 ### 📝 核心单词
-* **Leaf / Leaves** (叶子)
-* **Vein** (叶脉)
-* **Stomata** (气孔)
+
+-   **Leaf / Leaves** (叶子)
+-   **Vein** (叶脉)
+-   **Stomata** (气孔)
 
 ## W10: 光合作用
 
@@ -183,12 +238,13 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：光合作用演示]
+> \[待嵌入视频：光合作用演示\]
 
 ### 📝 核心单词
-* **Photosynthesis** (光合作用)
-* **Carbon Dioxide** (二氧化碳)
-* **Oxygen** (氧气)
+
+-   **Photosynthesis** (光合作用)
+-   **Carbon Dioxide** (二氧化碳)
+-   **Oxygen** (氧气)
 
 ## W11: 植物的呼吸
 
@@ -196,37 +252,38 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：蒸腾与呼吸]
+> \[待嵌入视频：蒸腾与呼吸\]
 
 ### 📝 核心单词
-* **Transpiration** (蒸腾作用)
-* **Respiration** (呼吸作用)
+
+-   **Transpiration** (蒸腾作用)
+-   **Respiration** (呼吸作用)
 
 ## W12: 单元小结
 
 **本周主题：叶子标本制作与汇报**
 
 ### 🎒 准备工作
-* 收集不同形状的落叶。
 
+-   收集不同形状的落叶。
 :::
 
 # 🌸 第四单元：繁花似锦（第 4 个月）
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## W13: 花的解剖
 
 **本周主题：花的结构（雄蕊与雌蕊）**
 
 ### 📺 预习视频
 
-> [待嵌入视频：花的解剖]
+> \[待嵌入视频：花的解剖\]
 
 ### 📝 核心单词
-* **Flower** (花)
-* **Petal** (花瓣)
-* **Stamen** (雄蕊) / **Pistil** (雌蕊)
+
+-   **Flower** (花)
+-   **Petal** (花瓣)
+-   **Stamen** (雄蕊) / **Pistil** (雌蕊)
 
 ## W14: 传粉的故事
 
@@ -234,12 +291,13 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：传粉过程]
+> \[待嵌入视频：传粉过程\]
 
 ### 📝 核心单词
-* **Pollination** (授粉)
-* **Pollen** (花粉)
-* **Bee** (蜜蜂)
+
+-   **Pollination** (授粉)
+-   **Pollen** (花粉)
+-   **Bee** (蜜蜂)
 
 ## W15: 果实的诞生
 
@@ -247,11 +305,12 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：受精与发育]
+> \[待嵌入视频：受精与发育\]
 
 ### 📝 核心单词
-* **Fruit** (果实)
-* **Fertilization** (受精)
+
+-   **Fruit** (果实)
+-   **Fertilization** (受精)
 
 ## W16: 种子的旅行
 
@@ -259,29 +318,29 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：种子传播]
+> \[待嵌入视频：种子传播\]
 
 ### 📝 核心单词
-* **Dispersal** (传播)
-* **Wind / Water / Animal** (风/水/动物)
 
+-   **Dispersal** (传播)
+-   **Wind / Water / Animal** (风/水/动物)
 :::
 
 # 🌾 第五单元：生命的循环（第 5 个月）
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ## W17: 收获的季节
 
 **本周主题：大豆的收获与测量**
 
 ### 📺 预习视频
 
-> [待嵌入视频：大豆收获]
+> \[待嵌入视频：大豆收获\]
 
 ### 📝 核心单词
-* **Harvest** (收获)
-* **Pod** (豆荚)
+
+-   **Harvest** (收获)
+-   **Pod** (豆荚)
 
 ## W18: 舌尖上的大豆
 
@@ -289,11 +348,12 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：豆制品制作]
+> \[待嵌入视频：豆制品制作\]
 
 ### 📝 核心单词
-* **Soybean milk** (豆浆)
-* **Tofu** (豆腐)
+
+-   **Soybean milk** (豆浆)
+-   **Tofu** (豆腐)
 
 ## W19: 生态循环
 
@@ -301,18 +361,19 @@ subtitle: "Pre-class Preparation & Resources"
 
 ### 📺 预习视频
 
-> [待嵌入视频：生态循环]
+> \[待嵌入视频：生态循环\]
 
 ### 📝 核心单词
-* **Cycle** (循环)
-* **Ecosystem** (生态系统)
+
+-   **Cycle** (循环)
+-   **Ecosystem** (生态系统)
 
 ## W20: 课程结业展
 
 **本周主题：我们的植物档案展示**
 
 ### 🎒 准备工作
-* 整理好这学期所有的观察日记。
-* 准备好你的植物盆栽。
 
+-   整理好这学期所有的观察日记。
+-   准备好你的植物盆栽。
 :::
