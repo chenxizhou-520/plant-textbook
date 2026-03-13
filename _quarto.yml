@@ -4,7 +4,7 @@ project:
   resources: 
     - videos
     - CNAME
-
+    - audio
 website:
   title: 植物的一生 🌱
   description: 配套教科书的官方学习资源库
