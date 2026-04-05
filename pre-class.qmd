@@ -65,6 +65,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W2: 唤醒沉睡的生命
 
 **本周主题：萌发条件**
@@ -106,6 +110,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W3: 破土而出的力量
 
 **本周主题：根的起源**
@@ -146,6 +154,10 @@ format: html
 
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
+
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
 
 ## W4: 不同的童年
 
@@ -241,6 +253,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W6: 植物的吸管
 
 **本周主题：木质部与韧皮部**
@@ -282,6 +298,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W7: 植物的隐形指挥官
 
 **本周主题：生长素**
@@ -322,6 +342,10 @@ format: html
 
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
+
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
 
 ## W8: 向上的力量
 
@@ -417,6 +441,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W10: 隐形的气孔
 
 **本周主题：气孔与蒸腾作用**
@@ -458,6 +486,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W11: 光合作用魔法
 
 **本周主题：光合作用机制**
@@ -498,6 +530,10 @@ format: html
 
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
+
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
 
 ## W12: 多彩的叶子
 
@@ -593,6 +629,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W14: 传粉者的秘密
 
 **本周主题：传粉机制**
@@ -634,6 +674,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W15: 果实的诞生
 
 **本周主题：果实与 DNA 蓝图**
@@ -674,6 +718,10 @@ format: html
 
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
+
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
 
 ## W16: 种子的旅行
 
@@ -770,6 +818,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W18: 植物魔法师（应用）
 
 **本周主题：提取与艺术**
@@ -811,6 +863,10 @@ format: html
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
 
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
+
 ## W19: 从田野到餐桌
 
 **本周主题：加工流程**
@@ -851,6 +907,10 @@ format: html
 
 ### ✍️ 造句练习 (Sentence Practice)
 请运用今天学习到的新单词，尝试造句，以检验自己对词汇的掌握程度。
+
+<div style="text-align: right; margin-top: 20px;">
+<a href="#top" style="text-decoration: none; font-weight: bold; color: #78c2ad; background-color: #f8f9fa; padding: 8px 15px; border-radius: 20px; border: 1px solid #e9ecef;">⬆️ 返回顶部菜单</a>
+</div>
 
 ## W20: 终极展览
 
